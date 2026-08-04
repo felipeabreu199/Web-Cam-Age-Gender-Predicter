@@ -98,6 +98,7 @@ shows live frames-per-second in the bottom status bar. useful for verifying that
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## usage
 place your trained model as age_gender_model.h5 in the project root, then run:
